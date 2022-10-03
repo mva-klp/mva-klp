@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vladimir Markov (@mva-klp)
 - 👀 I’m interested in Python, other programming languges, system administration
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on differents Python's projects
 - 📫 How to reach me vladimir.mva@gmail.com
 
